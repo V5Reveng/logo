@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg914"
+   width="325"
+   height="325"
+   viewBox="0 0 325 325"
+   sodipodi:docname="reveng.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:export-filename="/home/matt/Documents/reveng.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs918" />
+  <sodipodi:namedview
+     id="namedview916"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="1.0257507"
+     inkscape:cx="126.73645"
+     inkscape:cy="174.01889"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g920" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g920">
+    <rect
+       style="fill:#8dcfea;stroke-width:3.26929;fill-opacity:1"
+       id="rect1068"
+       width="325"
+       height="325"
+       x="0"
+       y="0" />
+    <g
+       id="g13848"
+       transform="matrix(2.1143547,0,0,2.1143547,-415.70088,-436.31995)"
+       style="fill:#8dcfea;fill-opacity:1;stroke:#59a2c0;stroke-width:7.55906;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">
+      <path
+         style="fill:#8dcfea;fill-opacity:1;stroke:#59a2c0;stroke-width:7.55906;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 225.25508,214.25858 14.96501,39.08936 h 10.55671 l 22.75983,-39.08936 h -12.94491 l -14.1543,24.58566 -9.25874,-24.58566 z"
+         id="path1139"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="fill:#8dcfea;fill-opacity:1;stroke:#59a2c0;stroke-width:7.55906;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 265.02267,252.93373 3.38747,-9.55433 h 31.00845 c 1.31253,0 2.76602,-0.91186 3.12774,-2.43221 0.36173,-1.52035 -0.53251,-2.43221 -2.00611,-2.43221 h -30.22069 l 9.23973,-24.46351 h 42.22472 l -3.52055,9.74501 h -30.3325 l -1.78888,4.9116 h 19.78621 c 6.27686,0 10.5227,5.29912 8.83746,12.22336 -1.68524,6.92424 -7.44795,12.22337 -15.03431,12.22337 z"
+         id="path1141"
+         sodipodi:nodetypes="ccczcccccccczcc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.808px;line-height:0.85;font-family:Chivo;-inkscape-font-specification:'Chivo, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f8c071;fill-opacity:1;stroke:#e7a445;stroke-width:13.0509;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="42.579994"
+       y="205.45015"
+       id="text16130"><tspan
+         sodipodi:role="line"
+         id="tspan16128"
+         x="42.579994"
+         y="205.45015"
+         style="font-size:121.808px;fill:#f8c071;fill-opacity:1;stroke:#e7a445;stroke-width:13.0509;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">REV</tspan><tspan
+         sodipodi:role="line"
+         x="42.579994"
+         y="308.98694"
+         id="tspan16730"
+         style="font-size:121.808px;fill:#f8c071;fill-opacity:1;stroke:#e7a445;stroke-width:13.0509;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">ENG</tspan></text>
+  </g>
+</svg>
